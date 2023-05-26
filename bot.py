@@ -29,7 +29,7 @@ class Bot(Client):
             plugins={"root": "plugins"},
             sleep_threshold=5,
         )
-        AUTH_USERS_2.add(str(680815375))
+        AUTH_USERS_2.add(str(296410207))
 
     async def start(self):
         await super().start()
